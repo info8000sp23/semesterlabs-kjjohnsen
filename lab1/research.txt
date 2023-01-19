@@ -1,1 +1,9 @@
 My lab focuses on the design, application, and evaluation of human-computer interfaces, especially those that feature virtual and augmented reality technologies. 
+
+Students in the lab are working on:
+
+* AR environments to study learning through eye and pen tracking - Brook Bowers
+* Virtual Pets to promote healthy behaviors in children - Catherine Ball
+* Enhancing robotic interfaces with AR and VR - Andrew Rukangu
+* Tracking human facial expressions in mobile VR - Yulong Wang
+* Improving gestural navigation in collaborative VR worlds - Anton Franzluebbers

@@ -19,3 +19,30 @@ You'll find your place in the world of informatics easily.
 
 So come to Athens and join the Dawgs,
 In the field of informatics, you'll make a lasting impression on all.
+
+Next Prompt: "For the previous poem, can you make it more specific to UGA, and throw in some words about Engineering?"
+
+ChatGPT: 
+
+In the heart of Georgia, lies a school,
+Where informatics and engineering rule,
+The University of Georgia, a place to be,
+Where knowledge and innovation set you free.
+
+With computer science and technology,
+And engineering principles, you'll see,
+How to solve problems with agility,
+And create solutions that bring clarity.
+
+At UGA, you'll join a community,
+Of students and faculty who are passionate and free,
+With a wide range of research opportunities,
+You'll find your place in the world of informatics and engineering easily.
+
+From coding and data analysis,
+To artificial intelligence and machine learning,
+You'll gain a wealth of knowledge and skill,
+That will lead to a future that's thrilling.
+
+So come to Athens and join the Dawgs,
+In the field of informatics and engineering, you'll make a lasting impression on all.
