@@ -1,0 +1,21 @@
+Prompt: "Write a poem about informatics at the university of georgia"
+
+ChatGPT:
+
+Informatics at the University of Georgia,
+A field of study that's sure to please ya,
+With computer science and technology,
+You'll learn to solve problems with agility.
+
+From coding and data analysis,
+To artificial intelligence and machine learning,
+You'll gain a wealth of knowledge and skill,
+That will lead to a future that's thrilling.
+
+At UGA, you'll join a community,
+Of students and faculty who are passionate and free,
+With a wide range of research opportunities,
+You'll find your place in the world of informatics easily.
+
+So come to Athens and join the Dawgs,
+In the field of informatics, you'll make a lasting impression on all.
