@@ -133,6 +133,7 @@ with open("data/clean.ssv","w") as f:
 
 # Now we visualize
 import matplotlib.pyplot as plt
+import matplotlib.ticker as ticker
 fig,axs = plt.subplots(1,2,figsize=(10,5))
 
 # first we do a scatter plot.  The hard part here (in theory) in splitting up the lists.  
@@ -163,6 +164,8 @@ axs[1].set_xticks([0,1,2,4,5,6,8,9,10])
 axs[1].set_xticklabels(['Male','Female','Non-Binary']*3,rotation='vertical')
 axs[1].set_title("Count of BMI categories by reported gender")
 axs[1].legend()
+axs[1].yaxis.set_major_locator(ticker.MaxNLocator(integer=True))
+
 plt.tight_layout()
 fig.savefig('figure.png',bbox_inches='tight')
 
