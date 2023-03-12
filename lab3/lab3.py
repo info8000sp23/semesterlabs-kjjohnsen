@@ -15,7 +15,10 @@ def process_gender(gender:str):
 # this will return the integer age or -1 if there is an issue
 def process_age(age:str):
     try:
-        return int(age)
+        age = int(age)
+        if age < 0 or age > 120: # deal with fake ages
+            return -1
+        return age
     except:
         return -1
 

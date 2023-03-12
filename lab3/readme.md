@@ -27,7 +27,7 @@ My Table:
       <td>Sheldon</td>
       <td>unknown</td>
       <td>m</td>
-      <td>42</td>
+      <td>44</td>
       <td>191.00</td>
       <td>83</td>
       <td>22.8</td>
@@ -39,7 +39,7 @@ My Table:
       <td>Brenna</td>
       <td>Jones</td>
       <td>f</td>
-      <td>42</td>
+      <td>44</td>
       <td>185.42</td>
       <td>84</td>
       <td>24.4</td>
@@ -63,7 +63,7 @@ My Table:
       <td>Tyson</td>
       <td>Neal</td>
       <td>m</td>
-      <td>42</td>
+      <td>44</td>
       <td>179.00</td>
       <td>53</td>
       <td>16.5</td>
@@ -79,6 +79,18 @@ My Table:
       <td>179.00</td>
       <td>91</td>
       <td>28.4</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>cristobalcampbellhxpm@gmail.com</td>
+      <td>Cristobal</td>
+      <td>Campbell</td>
+      <td>m</td>
+      <td>44</td>
+      <td>182.00</td>
+      <td>120</td>
+      <td>36.2</td>
       <td>1</td>
     </tr>
   </tbody>
