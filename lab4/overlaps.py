@@ -3,7 +3,7 @@ from point import Point
 from rectangle import Rectangle
 def point_rectangle(p: Point, r: Rectangle):
     temp = p - r.center #finds p relative to the center of rectangle
-    return abs(temp.x) < r.width and abs(temp.y) < r.height
+    return abs(temp.x) < r.width/2 and abs(temp.y) < r.height/2
 
 def point_circle(p: Point, c: Circle):
     return (p-c.center).length() < c.radius
