@@ -5,3 +5,4 @@
 Currently, I've completed the following
 - Lab 1 - Creating this Git repository (and the contents of the lab1 folder)
 - Lab 2 - See the lab 2 folder.
+- Other labs
