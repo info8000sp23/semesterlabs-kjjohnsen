@@ -20,7 +20,7 @@ class Rectangle:
         ]
     def boundingCircle(self):
         from circle import Circle
-        return Circle(self.center, Point(self.width/2,self.height/2).length())
+        return Circle(Point(self.center.x,self.center.y), Point(self.width/2,self.height/2).length())
     def __str__(self):
         return f"|{self.center},w={self.width},h={self.height}|"
     
